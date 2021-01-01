@@ -9,39 +9,39 @@ function Video() {
               </div>
              
              <div className="flex flex-col justify-center -mr-20">
-             <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/mA1H7pj57DI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+             <iframe className=" relative mt-8 -ml-20" width="560" title="1" height="300" src="https://www.youtube.com/embed/mA1H7pj57DI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/_Leaxp8jrYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="2" height="300" src="https://www.youtube.com/embed/_Leaxp8jrYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/UlwZGhMQTQo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="3" height="300" src="https://www.youtube.com/embed/UlwZGhMQTQo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/KdhTg2l-iuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="4" height="300" src="https://www.youtube.com/embed/KdhTg2l-iuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/WhnRRJ-yfHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="5" height="300" src="https://www.youtube.com/embed/WhnRRJ-yfHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/DcRWnp6L9to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="6" height="300" src="https://www.youtube.com/embed/DcRWnp6L9to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/_EDfd5FCGag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="7" height="300" src="https://www.youtube.com/embed/_EDfd5FCGag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/-3JMuhuoB_E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="8" height="300" src="https://www.youtube.com/embed/-3JMuhuoB_E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/HqTzPTui1cQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="9" height="300" src="https://www.youtube.com/embed/HqTzPTui1cQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/oCU_5HX_D_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="10" height="300" src="https://www.youtube.com/embed/oCU_5HX_D_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/WuBsu-25H7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="11" height="300" src="https://www.youtube.com/embed/WuBsu-25H7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
            
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/toyzoEt16U8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="12" height="300" src="https://www.youtube.com/embed/toyzoEt16U8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/ACGJ4KxuslA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="13" height="300" src="https://www.youtube.com/embed/ACGJ4KxuslA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/c1u5LouL1ag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="14" height="300" src="https://www.youtube.com/embed/c1u5LouL1ag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/bDW2dpCa-TY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="15" height="300" src="https://www.youtube.com/embed/bDW2dpCa-TY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/rCyjNl13ckg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="16" height="300" src="https://www.youtube.com/embed/rCyjNl13ckg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              
-              <iframe className=" relative mt-8 -ml-20" width="560" height="300" src="https://www.youtube.com/embed/Vf8EovwXzF8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className=" relative mt-8 -ml-20" width="560" title="17" height="300" src="https://www.youtube.com/embed/Vf8EovwXzF8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
              </div>
 
 
