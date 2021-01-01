@@ -358,6 +358,14 @@ function Chat() {
          </div>
          </div>
          
+         <div className="flex justify-center">
+         <div className="bg-gray-300 relative w-2/3 h-full mt-20 rounded-lg hover:bg-gray-50 transition duration-700 ease-in-out">
+          <h1 className="font-serif font-bold flex justify-center mt-6 text-3xl text-gray-500 hover:text-red-600 transition duration-700 ease-in-out">More Coming Soon</h1>
+          <p className="flex justify-center mt-7 ml-2 text-gray-600 hover:text-black">More Stories Coming Soon
+         </p>
+         </div>
+         </div>
+         
 
         </div>
     )
